@@ -75,7 +75,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 ```bash
 cd $HOME
-git clone https://github.com/pAyDaAr/Iranian_Bot.git
+git clone https://github.com/kinggraphic/anti-spam.git
 cd Iranian_Bot
 ./launch.sh install
 ./launch.sh
